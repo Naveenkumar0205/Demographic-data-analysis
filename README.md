@@ -5,7 +5,7 @@ The International Data Base (IDB) of the U.S. Census Bureau contains various dem
 # Tasks
   1. Describe the frequency distributions of the variables. Consider also the differences between the sexes.
   2. Describe the dependence structure of the involved variables. Are there hints towards monotonic relationships between variables? Are there hints towards functional relationships that are monotone but not linear?
-  3. Describe the variables’ variabilities within and between subregions.
+  3. Describe the variables variabilities within and between subregions.
   4. How have the values of the variables changed from 2002 to 2022?
 
- For tasks 1–3, consider only the year 2022. This project serves to practice the use of explorative and descriptive methods. Therefore, appropriate statistical measures and graphical methods are used for the analysis in all parts of the project.
+ For tasks 1–3, only the data from year 2022 is considered. This project serves to practice the use of explorative and descriptive methods. Therefore, appropriate statistical measures and graphical methods are used for the analysis in all parts of the project.
